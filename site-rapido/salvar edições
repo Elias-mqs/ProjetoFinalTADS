@@ -1,0 +1,26 @@
+css
+
+.minhaNavBar {
+
+}
+
+.minhaBrand {
+    font-size: 25px;
+    padding-left: 100px;
+
+}
+
+.linksNavMeu {
+    padding-left: 100px;
+}
+
+.liNavBarMeu {
+    font-size: 20px;
+    gap: 80px;
+    padding-right: 100px;
+}
+
+.liNavBarMeu li:hover > a{
+    border-bottom: 5px solid #254fb5;
+    padding-bottom: 2px;
+}
